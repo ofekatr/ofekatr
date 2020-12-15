@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, Gulp.js**
 
-- 💬 Ask me about **Web Development,System Architectures, Databases, UI/UX**
+- 💬 Ask me about **Web Development, System Architectures, Databases, UI/UX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
