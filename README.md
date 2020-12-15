@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ofek Atar</h1>
-<h3 align="center">A passionate full stack developer from Israel
-  <img src="https://user-images.githubusercontent.com/46415136/102255142-4d133e00-3f12-11eb-8d1a-b485e49fbdd2.png" style="border-radius: 50%;" width="350px" title="cover">
-</h3>
+<h3 align="center">A passionate full stack developer from Israel</h3>
 
 <p align="center">
-
+  <img src="https://user-images.githubusercontent.com/46415136/102255142-4d133e00-3f12-11eb-8d1a-b485e49fbdd2.png" style="border-radius: 50%;" width="350px" title="cover">
 </p>
 
 - 🔭 I’m currently working on [A Reddit clone](https://github.com/ofekatr/Reddit-Clone)
