@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ofek Atar</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
-- 🔭 I’m currently working on [Reddit clone](https://github.com/ofekatr/Reddit-Clone)
+- 🔭 I’m currently working on [A Reddit clone](https://github.com/ofekatr/Reddit-Clone)
 
-- 🌱 I’m currently learning **Next.js, Gulp.js**
+- 🌱 I’m currently learning **Next.js, Gulp.js, Figma**
 
-- 💬 Ask me about **Web Development,System Architectures, Databases, UI/UX**
+- 💬 Ask me about **Web Development, System Architectures, Databases, UI/UX**
 
 
 <h3 align="left">Languages and Tools:</h3>
