@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **Next.js, Gulp.js**
 
+- 👯 I’m looking to **collaborate with other developers**
+
+- 🥅 2021 Goals: **Contribute to Open Source projects**
+
 - 💬 Ask me about **Web Development, System Architectures, Databases, UI/UX**
 
 <h3 align="left">Connect with me:</h3>
