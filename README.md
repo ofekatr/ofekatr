@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A ticket store system with a microservices architecture.](https://github.com/ofekatr/Reddit-Clone)
 
-- 🌱 I’m currently learning **Next.js, Gulp.js**
+- 🌱 I’m currently learning **Next.js, AWS**
 
 - 👯 I’m looking to **collaborate with other developers**
 
