@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/46415136/102255142-4d133e00-3f12-11eb-8d1a-b485e49fbdd2.png" style="border-radius: 50%;" width="350px" title="cover">
 </p>
 
-- 🔭 I’m currently working on [A Reddit clone](https://github.com/ofekatr/Reddit-Clone)
+- 🔭 I’m currently working on [A ticket store system with a microservices architecture.](https://github.com/ofekatr/Reddit-Clone)
 
 - 🌱 I’m currently learning **Next.js, Gulp.js**
 
