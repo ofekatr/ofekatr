@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46415136/102255142-4d133e00-3f12-11eb-8d1a-b485e49fbdd2.png" style="border-radius: 5px;" width="450px" title="cover">
+  <img src="https://user-images.githubusercontent.com/46415136/102255142-4d133e00-3f12-11eb-8d1a-b485e49fbdd2.png" style="border-radius: 5px;" width="500px" title="cover">
 </p>
 
 - 🌐 I'm interested in complex, efficient architectural solutions in scalable environments.
