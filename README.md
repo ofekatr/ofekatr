@@ -20,7 +20,7 @@
 ### Contact Me
 
 <div>
-  <img src ="./images/linkedin.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/>
+  <img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/>
   <img src ="./images/stackoverflow.svg" alt="Stack Overflow logo" width="8%" title='Stack Overflow'/>
 </div>
 
