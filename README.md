@@ -43,6 +43,7 @@
   <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
   <img src ="./images/gatsby.svg" alt="Gatsby logo" width="8%" title='Gatsby'/>
+  <img src ="./images/angular.svg" alt="Angular logo" width="8%" title='Angular'/>
 <div>
 
 ### Backend Technologies
