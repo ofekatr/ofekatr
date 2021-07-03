@@ -40,10 +40,10 @@
   <img src ="./images/sass.svg" alt="Sass logo" width="8%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="8%" title='JavaScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
+  <img src ="./images/angular.svg" alt="Angular logo" width="8%" title='Angular'/>
   <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
   <img src ="./images/gatsby.svg" alt="Gatsby logo" width="8%" title='Gatsby'/>
-  <img src ="./images/angular.svg" alt="Angular logo" width="8%" title='Angular'/>
 <div>
 
 ### Backend Technologies
@@ -51,7 +51,21 @@
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
+  <img src ="./images/nestjs.svg" alt="NestJS logo" width="8%" title='NestJS'/> 
+  <img src ="./images/aws-lambda.svg" alt="AWS Lambda logo" width="8%" title='AWS Lambda'/>
+  <img src ="./images/mysql.svg" alt="MySQL logo" width="8%" title='MySQL'/>
+  <img src ="./images/postgresql.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
+  <img src ="./images/graphql.svg" alt="GraphQL logo" width="8%" title='GraphQL'/>
+  <img src ="./images/redis.svg" alt="Redis logo" width="8%" title='Redis'/>
+</div>
+  
+### Cloud Technologies
+  
+<div>
+  <img src ="./images/docker.svg" alt="Docker logo" width="8%" title='Docker'/>
+  <img src ="./images/kubernetes.svg" alt="Kubernetes logo" width="8%" title='Kubernetes'/>
+  <img src ="./images/aws.svg" alt="AWS logo" width="8%" title='AWS'/>
 </div>
 
 ### Tools
@@ -62,5 +76,4 @@
   <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/>
-  <img src ="./images/nestjs.svg" alt="NestJS logo" width="8%" title='NestJS'/> 
 </div>
