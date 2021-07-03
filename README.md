@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A ticket sales system with a microservices architecture.](https://github.com/ofekatr/Funtom)
 
-- 🌱 I’m currently learning **Next.js, AWS**
+- 🌱 I’m currently learning **Svelte**
 
 - 👯 I’m looking to **collaborate with other developers**
 
