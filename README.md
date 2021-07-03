@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [A ticket sales system with a microservices architecture.](https://github.com/ofekatr/Funtom)
 
-- 🌱 I’m currently learning **Svelte**, Message Driven Architectural Patterns
+- 🌱 I’m currently learning **Svelte, Message Driven Architectural Patterns**
 
 - 👯 I’m looking to **collaborate with other developers**
 
