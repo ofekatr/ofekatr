@@ -61,4 +61,5 @@
   <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
+  <span class="iconify" data-icon="logos-nestjs" data-inline="false"></span>
 </div>
