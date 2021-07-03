@@ -29,7 +29,7 @@
 
 ### Languages
 <div>
-  <span border-radius="5px"><img src ="./images/javascript.svg" alt="JavaScript logo" width="8%" title='JavaScript'/></span>
+  <span border-radius="5px" overflow="hidden"><img src ="./images/javascript.svg" alt="JavaScript logo" width="8%" title='JavaScript'/></span>
   <img src ="./images/typescript-logo.svg" alt="TypeScript logo" width="8%" title='TypeScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="6%" title='HTML5'/>
