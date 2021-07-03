@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ofek Atar</h1>
-<h3 align="center" style="font-size: 1.8rem;">A passionate full stack developer from Israel</h3>
+<h3 align="center" style="font-size: 54px;">A passionate full stack developer from Israel</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46415136/102255142-4d133e00-3f12-11eb-8d1a-b485e49fbdd2.png" style="border-radius: 5px;" width="500px" title="cover">
