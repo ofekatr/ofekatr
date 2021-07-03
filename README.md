@@ -49,7 +49,7 @@
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
   <img src ="./images/nestjs.svg" alt="NestJS logo" width="8%" title='NestJS'/> 
-  <img src ="./images/aws-lambda.svg" alt="AWS Lambda logo" width="8%" title='AWS Lambda'/>
+  <img src ="./images/aws-lambda-icon.svg" alt="AWS Lambda logo" width="8%" title='AWS Lambda'/>
   <img src ="./images/mysql.svg" alt="MySQL logo" width="8%" title='MySQL'/>
   <img src ="./images/postgresql.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
